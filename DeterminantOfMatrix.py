@@ -15,3 +15,13 @@ det = np.linalg.det(n_array)
 
 print("\nDeterminant of given 3X3 matrix:")
 print(float(det))
+
+------------------------------------------------
+# Output
+# Numpy Matrix is:
+# [[0 2 5]
+#  [2 1 1]
+#  [3 1 0]]
+
+# Determinant of given 3X3 matrix:
+# 0.9999999999999991
